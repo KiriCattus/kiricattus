@@ -1,7 +1,15 @@
 ### Hello World, I'm Kiri!
 <p>
-  
+  Hobbyist mod developer who's somewhat capable with Java, I own a cat called Shadow who means everything to me, I'm also trying to learn more programming languages when I can find some free time, some of my main projects are:
 </p>
+
+<ul>
+  <li><a href="https://github.com/kiricatts/overseer">The Overseer</li>
+  <li><a href="https://github.com/kiris-mods/mysterious-biomes">Mysterious Biomes</li>
+  <li><a href="https://github.com/kiris-mods/project-icbp">Project ICBP</li>
+  <li>And <a href="https://github.com/kiris-mods/spruce-willis-the-xmas-tree">Spruce Willis The Xmas Tree</li>
+</ul>
+
 <p>
   <a href="https://tophatcat.dev"><img src="https://img.shields.io/badge/-tophatcat.dev-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://tophatcat.dev" alt="Website Badge"></a>
   <a href="https://discord.tophatcat.dev"><img src="https://img.shields.io/discord/176780432371744769?style=flat-square&logo=Discord&label=Discord" alt="Discord Badge"></a>

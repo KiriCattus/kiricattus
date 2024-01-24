@@ -32,4 +32,9 @@
 ### :bar_chart: [Coding time in the last 14 days](https://github.com/muety/wakapi)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->

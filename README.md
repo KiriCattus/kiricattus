@@ -1,12 +1,14 @@
-### Hello World, I'm Kiri!
+### Hello World, I'm Kiri of <a href="https://tophatcat.dev">tophatcat.dev!
+
 <p>
   Hobbyist mod developer who's somewhat capable with Java, I own a cat called Shadow who means everything to me, I'm also trying to learn more programming languages when I can find some free time, some of my main projects are:
 </p>
 
 <ul>
-  <li><a href="https://github.com/KiriCattus/patchy">Patchy</li>
+  <li><a href="https://github.com/KiriCattus/anastasiya">Anastasiya</li>
   <li><a href="https://github.com/kiris-mods/mysterious-biomes">Mysterious Biomes</li>
   <li><a href="https://github.com/kiris-mods/project-icbp">Project ICBP</li>
+  <li><a href="https://github.com/kiris-mods/cattus-trinkets">Cattus Trinkets</li>
   <li>And <a href="https://github.com/kiris-mods/spruce-willis-the-xmas-tree">Spruce Willis The Xmas Tree</li>
 </ul>
 
@@ -21,8 +23,8 @@
 <h2>⚡️ Some Quick Info!</h2>
 <img align="right" src="https://media1.giphy.com/media/igDIvcIMMGIne/giphy.gif"/>
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/kiris-mods/">updating my mods</a> and <a href="https://github.com/kiricatts/patchy">creating Patchy!</li>
-  <li>🌱 I'm currently trying to shake off the cobwebs and work on my Java skills and pick up web dev again... Wish me luck!</li>
+  <li>🔭 I’m currently working on <a href="https://tophatcat.dev/mods/">updating my mods</a> and <a href="https://tophatcat.dev/discord-bots">working on some Discord bots!</li>
+  <li>🌱 I'm currently trying to shake off the cobwebs and work on my Java skills again... Wish me luck!</li>
   <li>💬 Ask me about my cats! They are adorable and I must always be near them!</li>
   <li>📫 Feel free to reach out to me on one of the platforms above, I'm usually around tinkering with something or gaming... </li>
 </ul>
